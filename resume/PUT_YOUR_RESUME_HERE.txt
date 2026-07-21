@@ -1,0 +1,2 @@
+Please place your actual 'resume.pdf' file in this folder. The website's download button links to 'resume/resume.pdf'.
+Since I only received an image of your resume, you will need to save it as a PDF or upload the PDF version here.
